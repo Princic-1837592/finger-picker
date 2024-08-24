@@ -1,0 +1,16 @@
+{
+  "short_name": "Finger Picker",
+  "name": "Finger Picker",
+  "scope": "/finger-picker/",
+  "start_url": "/finger-picker/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+      {
+        "src": "/finger-picker/favicon.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }
+  ]
+}
